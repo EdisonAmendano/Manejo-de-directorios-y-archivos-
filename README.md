@@ -30,6 +30,12 @@ Para regresar a la ruta anterior se obtiene la ruta de la caja de texto y con un
 
 Se pudo observar que el manejo de archivos es muy importante ya que esto nos ayuda a poder manejar los archivos de la computadora libremente.
 
+Cuenta gitGub
+
+Usuario: EdisonAmendano
+
+URl: https://github.com/EdisonAmendano/Manejo-de-directorios-y-archivos-.git
+
 
 Nombre: Edison Amendaño
 
